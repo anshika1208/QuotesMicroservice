@@ -21,5 +21,11 @@
     </Content>
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="YAMLFile.yml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 
 </Project>

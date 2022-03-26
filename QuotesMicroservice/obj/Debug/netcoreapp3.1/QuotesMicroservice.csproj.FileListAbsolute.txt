@@ -356,7 +356,6 @@ C:\Users\Aishwarya Hutagi\OneDrive\Desktop\Finalllll\QuotesMicroservice\QuotesMi
 C:\Users\Aishwarya Hutagi\OneDrive\Desktop\Finalllll\QuotesMicroservice\QuotesMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Aishwarya Hutagi\OneDrive\Desktop\Finalllll\QuotesMicroservice\QuotesMicroservice\bin\Debug\netcoreapp3.1\QuotesMicroservice.exe
 C:\Users\Aishwarya Hutagi\OneDrive\Desktop\Finalllll\QuotesMicroservice\QuotesMicroservice\bin\Debug\netcoreapp3.1\log4net.config
-C:\Users\Aishwarya Hutagi\OneDrive\Desktop\Finalllll\QuotesMicroservice\QuotesMicroservice\bin\Debug\netcoreapp3.1\YAMLFile.yml
 C:\Users\Aishwarya Hutagi\OneDrive\Desktop\Finalllll\QuotesMicroservice\QuotesMicroservice\bin\Debug\netcoreapp3.1\QuotesMicroservice.deps.json
 C:\Users\Aishwarya Hutagi\OneDrive\Desktop\Finalllll\QuotesMicroservice\QuotesMicroservice\bin\Debug\netcoreapp3.1\QuotesMicroservice.runtimeconfig.json
 C:\Users\Aishwarya Hutagi\OneDrive\Desktop\Finalllll\QuotesMicroservice\QuotesMicroservice\bin\Debug\netcoreapp3.1\QuotesMicroservice.runtimeconfig.dev.json
@@ -398,3 +397,4 @@ C:\Users\Aishwarya Hutagi\OneDrive\Desktop\Finalllll\QuotesMicroservice\QuotesMi
 C:\Users\Aishwarya Hutagi\OneDrive\Desktop\Finalllll\QuotesMicroservice\QuotesMicroservice\obj\Debug\netcoreapp3.1\QuotesMicroservice.dll
 C:\Users\Aishwarya Hutagi\OneDrive\Desktop\Finalllll\QuotesMicroservice\QuotesMicroservice\obj\Debug\netcoreapp3.1\QuotesMicroservice.pdb
 C:\Users\Aishwarya Hutagi\OneDrive\Desktop\Finalllll\QuotesMicroservice\QuotesMicroservice\obj\Debug\netcoreapp3.1\QuotesMicroservice.genruntimeconfig.cache
+C:\Users\Aishwarya Hutagi\OneDrive\Desktop\Finalllll\QuotesMicroservice\QuotesMicroservice\bin\Debug\netcoreapp3.1\YAMLFile.yml

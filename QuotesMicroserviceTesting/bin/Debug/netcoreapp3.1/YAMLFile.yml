@@ -16,8 +16,8 @@ spec:
         app: QuotesMicroservice
     spec:
       containers:
-      - name:  quotescontainerregs
-        image: quotescontainerregs.azurecr.io/quotescontainerr:latest
+      - name: quotescontainerregistry1
+        image: quotescontainerregistry1.azurecr.io/quotescontainer1:latest
         ports:
         - containerPort: 8080
       imagePullSecrets:
